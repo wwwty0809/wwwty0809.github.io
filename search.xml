@@ -21,9 +21,21 @@
       <link href="/post/f4ec8bd6.html"/>
       <url>/post/f4ec8bd6.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="第1章-引言"><a href="#第1章-引言" class="headerlink" title="第1章 引言"></a>第1章 引言</h1><h3 id="1-信息安全的4个基本目标："><a href="#1-信息安全的4个基本目标：" class="headerlink" title="1. 信息安全的4个基本目标："></a>1. <strong>信息安全的4个基本目标：</strong></h3><ul><li>&#x3D;&#x3D;<strong>保密性</strong>&#x3D;&#x3D;</li><li>&#x3D;&#x3D;<strong>完整性</strong>&#x3D;&#x3D;</li><li>&#x3D;&#x3D;<strong>可用性</strong>&#x3D;&#x3D;</li><li>&#x3D;&#x3D;<strong>合法使用</strong>&#x3D;&#x3D;</li></ul><h3 id="2-安全威胁"><a href="#2-安全威胁" class="headerlink" title="2. 安全威胁"></a>2. 安全威胁</h3><ol><li><p>&#x3D;&#x3D;<strong>基本威胁</strong>&#x3D;&#x3D;</p><ul><li><p>&#x3D;&#x3D;<strong>信息泄漏</strong>&#x3D;&#x3D; </p></li><li><p>&#x3D;&#x3D;<strong>完整性破坏</strong>&#x3D;&#x3D; </p></li><li><p>&#x3D;&#x3D;<strong>拒绝服务</strong>&#x3D;&#x3D;</p></li><li><p>&#x3D;&#x3D;<strong>非法使用</strong>&#x3D;&#x3D;</p></li></ul></li><li><p>主要的可实现威胁</p></li><li><p>潜在威胁</p></li></ol><p>安全策略：某个安全域内施加给所有与安全相关活动的一套规则。</p><p>安全策略分为3个等级：安全策略目标、机构安全策略、系统安全策略。</p><p>安全域：属于某个组织机构的一系列处理进程和通信资源。</p><p>授权是安全策略的一个基本组成部分，它指主体（用户、终端、程序等）对客体（数据、程序等）的支配权利，它规定了谁可以对什么做些什么。</p><h3 id="3-访问控制策略"><a href="#3-访问控制策略" class="headerlink" title="3. 访问控制策略"></a>3. <strong>访问控制策略</strong></h3><ol><li><p><strong>强制访问策略(MAC)</strong></p></li><li><p><strong>自主访问策略(DAC)</strong></p></li><li><p>基于角色的访问控制(RBAC)</p></li><li><p>基于任务的访问控制(TBAC)</p></li><li><p>基于对象的访问控制(OBAC)</p></li></ol><h3 id="4-两种安全攻击类型"><a href="#4-两种安全攻击类型" class="headerlink" title="4. 两种安全攻击类型"></a>4. <strong>两种安全攻击类型</strong></h3><h4 id="被动攻击"><a href="#被动攻击" class="headerlink" title="被动攻击"></a><strong>被动攻击</strong></h4><p><strong>信息泄漏</strong>       <strong>流量分析</strong></p><h4 id="主动攻击"><a href="#主动攻击" class="headerlink" title="主动攻击"></a><strong>主动攻击</strong></h4><p><strong>伪装攻击</strong>       <strong>重放攻击</strong>        <strong>消息篡改</strong>       <strong>拒绝服务</strong></p><p><strong>常见的攻击形式八种形式</strong></p><p>1.口令窃取               2.欺骗攻击          3.缺陷和后门攻击      4.认证失效</p><p>5.协议缺陷               6.信息泄漏          7.指数攻击                 8.拒绝服务攻击</p><h3 id="x3D-x3D-安全服务（5个）-x3D-x3D"><a href="#x3D-x3D-安全服务（5个）-x3D-x3D" class="headerlink" title="&#x3D;&#x3D;安全服务（5个）&#x3D;&#x3D;"></a><strong>&#x3D;&#x3D;安全服务（5个）&#x3D;&#x3D;</strong></h3><p><strong>X.800定义的5类安全服务</strong></p><p>&#x3D;&#x3D;<strong>认证、访问控制、数据保密性、数据完整性、不可否认性</strong>&#x3D;&#x3D;</p><h3 id="x3D-x3D-安全机制（8个）-x3D-x3D"><a href="#x3D-x3D-安全机制（8个）-x3D-x3D" class="headerlink" title="&#x3D;&#x3D;安全机制（8个）&#x3D;&#x3D;"></a>&#x3D;&#x3D;<strong>安全机制</strong>（8个）&#x3D;&#x3D;</h3><p>&#x3D;&#x3D;<strong>加密</strong>          <strong>数字签名</strong>         <strong>访问控制</strong>         <strong>数据完整性</strong>        <strong>认证交换</strong>         <strong>流量填充</strong>       <strong>路由控制</strong>        <strong>公证</strong>&#x3D;&#x3D;</p>]]></content>
       
       
+      <categories>
+          
+          <category> 备忘录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 笔记 </tag>
+            
+        </tags>
       
     </entry>
     
